@@ -5,7 +5,7 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.4-blue.svg)](https://php.net)
 [![Apache License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/larin-ilya/film-lab-pro/pulls)
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2Ffoto.fl0w.ru)](https://foto.fl0w.ru)
 
 <p align="center">
